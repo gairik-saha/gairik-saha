@@ -44,7 +44,7 @@ recommendations across Lambda, EC2, and S3 (work in progress)
 
 #### 📫 Get in touch
 
-- LinkedIn — (https://www.linkedin.com/in/gairik-saha-711195b9/)
+- LinkedIn — [linkedin.com/in/gairik-saha-711195b9](https://www.linkedin.com/in/gairik-saha-711195b9/)
 - Email — gairik.saha2013@yahoo.com
 
 ---
