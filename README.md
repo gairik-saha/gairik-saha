@@ -27,8 +27,7 @@ This profile is where I publish sanitised reference implementations of the
 architectures I work on day-to-day, plus tools I find useful as a working
 architect. Pinned repos below.
 
-📌 **AWS Cost Optimisation Analyser** — Python CLI surfacing rightsizing
-recommendations across Lambda, EC2, and S3 (work in progress)
+📌 **[AWS Cost Optimisation Analyser](https://github.com/gairik-saha/aws-cost-optimiser)** — Python CLI surfacing rightsizing recommendations across Lambda, EC2, and S3 *(active development)*
 
 📌 **Serverless Event-Driven Reference Architecture** — Lambda · EventBridge
 · SQS · Step Functions · Terraform (coming soon)
