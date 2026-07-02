@@ -10,7 +10,7 @@ problems into scalable, cost-efficient cloud solutions.
 
 ---
 
-#### 🛠️ What I work with
+####  What I work with
 
 **Cloud & IaC** — AWS (Lambda, API Gateway, EventBridge, SQS, Step Functions,
 Glue, Athena, S3, DynamoDB, IAM, KMS, CloudWatch) · Terraform · GitHub Actions
@@ -21,27 +21,26 @@ Glue, Athena, S3, DynamoDB, IAM, KMS, CloudWatch) · Terraform · GitHub Actions
 
 ---
 
-#### 🚀 What I'm building here
+####  What I'm building here
 
 This profile is where I publish sanitised reference implementations of the
 architectures I work on day-to-day, plus tools I find useful as a working
 architect. Pinned repos below.
 
 📌 **[AWS Cost Optimisation Analyser](https://github.com/gairik-saha/aws-cost-optimiser)** — Python CLI surfacing rightsizing recommendations across Lambda, EC2, and S3
-📌 **[Stock Market Research Agent](https://github.com/gairik-saha/market-research-agent)** - An agentic AI system that researches stocks using live market data. Built to explore how LLM-powered agents use tools, handle failures, and coordinate in multi-agent architectures.
-📌 **Serverless Event-Driven Reference Architecture** — Lambda · EventBridge
-· SQS · Step Functions · Terraform (coming soon)
+📌 **[Stock Market Research Agent](https://github.com/gairik-saha/market-research-agent)** — Multi-agent LLM system with live market data tools, failure handling, hallucination controls, and a bull/bear debate orchestrator
+📌 **Serverless Event-Driven Reference Architecture** — Lambda · EventBridge · SQS · Step Functions · Terraform (coming soon)
 
 ---
 
-#### 📜 Credentials
+####  Credentials
 
 - Advanced Postgraduate Certificate, Computational Data Science — IISc Bangalore
 - AWS Certified Solutions Architect – Associate *(in progress)*
 
 ---
 
-#### 📫 Get in touch
+####  Get in touch
 
 - LinkedIn — [linkedin.com/in/gairik-saha-711195b9](https://www.linkedin.com/in/gairik-saha-711195b9/)
 - Email — gairik.saha2013@yahoo.com
