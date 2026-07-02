@@ -27,7 +27,10 @@ architectures I work on day-to-day, plus tools I find useful as a working
 architect. Pinned repos below.
 
 📌 **[AWS Cost Optimisation Analyser](https://github.com/gairik-saha/aws-cost-optimiser)** — Python CLI surfacing rightsizing recommendations across Lambda, EC2, and S3
+
 📌 **[Stock Market Research Agent](https://github.com/gairik-saha/market-research-agent)** — Multi-agent LLM system with live market data tools, failure handling, hallucination controls, and a bull/bear debate orchestrator
+
+📌 **Serverless Event-Driven Reference Architecture** — Lambda · EventBridge · SQS · Step Functions · Terraform (coming soon)
 
 ---
 
